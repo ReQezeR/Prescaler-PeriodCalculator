@@ -1,0 +1,4 @@
+﻿  PscPeriodCalc.cpp
+d:\studia\programowanie\prescaler-periodcalculator\prescaler-periodcalculator\prescaler-periodcalculator\pscperiodcalc.cpp(16): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+d:\studia\programowanie\prescaler-periodcalculator\prescaler-periodcalculator\prescaler-periodcalculator\pscperiodcalc.cpp(59): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Prescaler-PeriodCalculator.vcxproj -> D:\Studia\PROGRAMOWANIE\Prescaler-PeriodCalculator\Prescaler-PeriodCalculator\Debug\Prescaler-PeriodCalculator.exe
